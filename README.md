@@ -88,7 +88,7 @@ python -m unittest test_http_utils.py
 python -m unittest test_main.py
 ```
 
-### Break down into end to end tests
+### Testes automatizados
 
 Os testes são responsáveis pelas seguintes coberturas:
 
