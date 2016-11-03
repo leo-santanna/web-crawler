@@ -88,7 +88,7 @@ python -m unittest test_http_utils.py
 python -m unittest test_main.py
 ```
 
-### Testes automatizados
+### Detalhamento dos testes
 
 Os testes são responsáveis pelas seguintes coberturas:
 
@@ -103,7 +103,7 @@ Verifica se o parse da página é realizado com a url e limitador de parse infor
 Verifica se a biblioteca aiohttp requisita a página por GET
 Verifica se a biblioteca requests requisita a página por GET
 
--test_main.py
+- test_main.py
 Verifica se as urls das marcas são obtidos da página de todas as marcas
 Verifica se as urls dos produtos são obtidos da página de produtos
 Verifica se a página de produtos é processada em busca dos dados necessários (forma assíncrona)
