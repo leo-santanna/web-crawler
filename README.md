@@ -31,7 +31,7 @@ Requests
 tqdm
 ```
 
-### Installing
+### Instalação
 
 Para que o crawler funcione é necessário instalar as bibliotecas externas das seguintes formas:
 
